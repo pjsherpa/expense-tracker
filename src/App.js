@@ -5,13 +5,13 @@ function App() {
     {
       id: "e1",
       title: "Car Insurance",
-      amount: 294.67,
+      amount: 180.67,
       date: new Date(2022, 12, 21),
     },
     {
       id: "e2",
       title: "Car finance",
-      amount: 294.67,
+      amount: 494.67,
       date: new Date(2022, 12, 21),
     },
   ];

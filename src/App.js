@@ -20,6 +20,12 @@ function App() {
       amount: 494.67,
       date: new Date(2022, 12, 21),
     },
+    {
+      id: "e4",
+      title: "Mortgage",
+      amount: 3600,
+      date: new Date(2022, 12, 21),
+    },
   ];
   return (
     <div>

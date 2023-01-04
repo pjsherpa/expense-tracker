@@ -26,6 +26,18 @@ function App() {
       amount: 3600,
       date: new Date(2022, 12, 21),
     },
+    {
+      id: "e5",
+      title: "Water",
+      amount: 200,
+      date: new Date(2022, 12, 21),
+    },
+    {
+      id: "e6",
+      title: "Garbage",
+      amount: 200,
+      date: new Date(2022, 12, 21),
+    },
   ];
   return (
     <div>

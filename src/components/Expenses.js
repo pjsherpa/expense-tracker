@@ -36,6 +36,12 @@ const Expense = (props) => {
         date={props.items[5].date}
       />
     </Card>
+     <ExpenseItem
+     title={props.items[5].title}
+     amount={props.items[5].amount}
+     date={props.items[5].date}
+   />
+ </Card>
   );
 };
 
